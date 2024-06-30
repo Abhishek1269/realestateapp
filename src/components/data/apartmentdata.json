@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Apart-1",
+        "img": "apartment/apart-1.jpg",
+        "price": 500000,
+        "info": "3BHK with lift"
+    },
+    {
+        "id": 2,
+        "title": "Apart-2",
+        "img": "apartment/apart-2.jpg",
+        "price": 13000000,
+        "info": "5BHk with two balcony"
+    },
+    {
+        "id": 3,
+        "title": "Apart-3",
+        "img": "apartment/apart-3.jpg",
+        "price": 30000000,
+        "info": "2BHK fully furnished"
+    },
+    {
+        "id": 4,
+        "title": "Apart-4",
+        "img": "apartment/apart-4.jpg",
+        "price": 18000000,
+        "info": "5BHK fully furnished"
+    }
+]

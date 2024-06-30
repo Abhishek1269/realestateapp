@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Farm-1",
+        "img": "farmhouse/farmhouse-1.jpg",
+        "price": 5000000,
+        "info": "Farmhouse with personal garden"
+    },
+    {
+        "id": 2,
+        "title": "Farm-2",
+        "img": "farmhouse/farm-2.jpg",
+        "price": 8000000,
+        "info": "Lakeside farmhouse"
+    },
+    {
+        "id": 3,
+        "title": "Farm-3",
+        "img": "farmhouse/farm-3.jpg",
+        "price": 3000000,
+        "info": "Farmhouse on hillstation"
+    },
+    {
+        "id": 4,
+        "title": "Farm-4",
+        "img": "farmhouse/farm-4.jpg",
+        "price": 4500000,
+        "info": "Farmhouse on hillstation"
+    }
+]

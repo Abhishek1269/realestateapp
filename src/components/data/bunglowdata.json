@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Bunglow-1",
+        "img": "bunglow/bung1.jpg",
+        "price": 25000000,
+        "info": "7BHK Bunglow"
+    },
+    {
+        "id": 2,
+        "title": "Bunglow-2",
+        "img": "bunglow/bung2.jpg",
+        "price": 45000000,
+        "info": "5BHK bunglow with 2 car parking"
+    },
+    {
+        "id": 3,
+        "title": "Bunglow-3",
+        "img": "bunglow/bung3.jpg",
+        "price": 50000000,
+        "info": "5BHK bunglow with pool"
+    },
+    {
+        "id": 4,
+        "title": "Bunglow-4",
+        "img": "bunglow/bung4.jpg",
+        "price": 35000000,
+        "info": "4BHK bunglow with garden"
+    }
+]

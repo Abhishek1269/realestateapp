@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Penthouse-1",
+        "img": "penthouse/pent1.jpg",
+        "price": 9000000,
+        "info": "2BHK penthouse on 20th floor"
+    },
+    {
+        "id": 2,
+        "title": "Penthouse-2",
+        "img": "penthouse/pent2.png",
+        "price": 19000000,
+        "info": "3BHK fully furnished penthouse"
+    },
+    {
+        "id": 3,
+        "title": "Penthouse-3",
+        "img": "penthouse/pent3.jpg",
+        "price": 49000000,
+        "info": "5BHK penthouse on 38th floor"
+    },
+    {
+        "id": 4,
+        "title": "Penthouse-4",
+        "img": "penthouse/pent4.jpg",
+        "price": 36000000,
+        "info": "6BHK penthouse with sea view"
+    }
+]

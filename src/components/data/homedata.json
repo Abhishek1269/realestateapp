@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Apartment",
+        "img": "home/apart-4.jpg",
+        "route": "apartment"
+    },
+    {
+        "id": 2,
+        "title": "Bunglow",
+        "img": "home/bung2.jpg",
+        "route": "bunglow"
+    },
+    {
+        "id": 3,
+        "title": "Penthouse",
+        "img": "home/pent4.jpg",
+        "route": "penthouse"
+    },
+    {
+        "id": 4,
+        "title": "FarmHouse",
+        "img": "home/farmhouse-1.jpg",
+        "route": "farmhouse"
+    }
+]
